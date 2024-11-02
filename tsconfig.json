@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "target": "ES6", //na hora de converter converte para ts6
+    "module": "CommonJS", //
+    "outDir": "./dist", //compila na pasta dist
+    "strict": true, //checagem de tipagem
+    "esModuleInterop": true //transitar em commonjs e module
+  }
+}
